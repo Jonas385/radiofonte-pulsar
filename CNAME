@@ -1,1 +1,5 @@
-radiofontepulsar.seudominio.
+git init
+git commit --allow-empty -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/seu-usuario/repositorio.git
+git push -u origin main
